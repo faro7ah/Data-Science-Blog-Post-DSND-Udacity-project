@@ -16,3 +16,23 @@ Python versions 3.*.
 - numpy.
 - matplotlib.
 - seaborn.
+
+<a id='Project Motivation'></a>
+# Project Motivation:
+This project used[FBI Gun Data](https://www.google.com/url?q=https://d17h27t6h515a5.cloudfront.net/topher/2017/November/5a0a554c_u.s.-census-data/u.s.-census-data.csv&sa=D&ust=1532469042128000) I was interested in working for a dataset I used before. This dataset comes from the FBI's National Instant Criminal Background
+Check System. The NICS is used to
+determine whether a prospective
+buyer is eligible to buy firearms or
+explosives. Gun shops call into this
+system to ensure that each customer
+does not have a criminal record or
+isn’t otherwise ineligible to make a
+purchase. The data has been
+supplemented with state-level data
+from. I  analyzed this dataset to find interesting outcomes and find interesting results. I asked and answered for these:
+
+- The highest rate of Hispanic or Latino
+-  The rate of handguns on each state.
+-   The month which occurred the largest rate of long gun purchases.
+- The state with least affected by a total of purchase of guns.
+- The highest gun purchase for each prospective buyer.
