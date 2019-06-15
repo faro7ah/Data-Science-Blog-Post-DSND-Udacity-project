@@ -43,4 +43,14 @@ from. I  analyzed this dataset to find interesting outcomes and find interesting
 we have one notebook file that includes all the work related to the previous questions, and the dataset is available in [github](https://github.com/BuzzFeedNews/nics-firearm-background-checks/blob/master/README.md) 
 
 
+<a id='Results'></a>
+# Results:
+The main findings of the code can be found [here]().
+
+
+<a id='Licensing, Authors, and Acknowledgements'></a>
+# Licensing, Authors, and Acknowledgements:
+[The data in this repository comes from the FBI's National Instant Criminal Background Check System](https://www.fbi.gov/services/cjis/nics).
+[github](https://github.com/BuzzFeedNews/nics-firearm-background-checks/blob/master/README.md)
+
 
