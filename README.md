@@ -36,3 +36,11 @@ from. I  analyzed this dataset to find interesting outcomes and find interesting
 -   The month which occurred the largest rate of long gun purchases.
 - The state with least affected by a total of purchase of guns.
 - The highest gun purchase for each prospective buyer.
+
+
+<a id='File Descriptions'></a>
+# File Descriptions:
+we have one notebook file that includes all the work related to the previous questions, and the dataset is available in [github](https://github.com/BuzzFeedNews/nics-firearm-background-checks/blob/master/README.md) 
+
+
+
