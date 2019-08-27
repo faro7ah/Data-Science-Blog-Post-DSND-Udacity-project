@@ -40,7 +40,7 @@ from. I  analyzed this dataset to find interesting outcomes and find interesting
 
 <a id='File Descriptions'></a>
 # File Descriptions:
-we have one notebook file that includes all the work related to the previous questions, and the dataset is available in [github](https://github.com/BuzzFeedNews/nics-firearm-background-checks/blob/master/README.md) 
+To complete this project, you will use Jupyter Notebooks through a workspace in the classroom. Jupyter Notebooks are a great way to work with your code interactively while also being able to include descriptive and informative text to build a report. The next few concepts in this lesson will help you get started with understanding notebooks. If you would like to learn more about these tools, or you need some additional help to get started, you can check out Anaconda and Jupyter Notebooks in the "[Intro to Data Analysis](https://classroom.udacity.com/nanodegrees/nd025-mena-connect/parts/24b9c8f5-ef0f-4250-84d9-c5e8f843ed33)" Core Concept of this course.
 
 
 <a id='Results'></a>
